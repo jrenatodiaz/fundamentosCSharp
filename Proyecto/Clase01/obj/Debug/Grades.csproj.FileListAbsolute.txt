@@ -1,0 +1,17 @@
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Clase01\bin\Debug\Clase01.exe.config
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Clase01\bin\Debug\Clase01.exe
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Clase01\bin\Debug\Clase01.pdb
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Clase01\obj\Debug\Clase01.exe
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Clase01\obj\Debug\Clase01.pdb
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Clase01\bin\Debug\Clase01.exe.config
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Clase01\obj\Debug\Clase01.exe
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Clase01\obj\Debug\Clase01.pdb
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Clase01\bin\Debug\Clase01.exe
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Clase01\bin\Debug\Clase01.pdb
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Clase01\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Clase01\bin\Debug\Clase01.exe.config
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Clase01\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Clase01\bin\Debug\Clase01.exe
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Clase01\bin\Debug\Clase01.pdb
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Clase01\obj\Debug\Clase01.exe
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Clase01\obj\Debug\Clase01.pdb

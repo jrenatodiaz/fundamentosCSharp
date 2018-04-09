@@ -1,0 +1,9 @@
+C:\Users\R-Natho Díaz C\Desktop\01\Clase01\Clase01\bin\Debug\Clase01.exe.config
+C:\Users\R-Natho Díaz C\Desktop\01\Clase01\Clase01\bin\Debug\Clase01.exe
+C:\Users\R-Natho Díaz C\Desktop\01\Clase01\Clase01\bin\Debug\Clase01.pdb
+C:\Users\R-Natho Díaz C\Desktop\01\Clase01\Clase01\obj\Debug\Clase01.csprojResolveAssemblyReference.cache
+C:\Users\R-Natho Díaz C\Desktop\01\Clase01\Clase01\obj\Debug\Clase01.exe
+C:\Users\R-Natho Díaz C\Desktop\01\Clase01\Clase01\obj\Debug\Clase01.pdb
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Clase01\bin\Debug\Clase01.exe.config
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Clase01\obj\Debug\Clase01.exe
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Clase01\obj\Debug\Clase01.pdb

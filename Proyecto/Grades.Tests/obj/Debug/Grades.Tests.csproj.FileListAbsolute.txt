@@ -1,0 +1,24 @@
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Grades.Tests\bin\Debug\Clase01.exe
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Grades.Tests\bin\Debug\Clase01.pdb
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\R-Natho Díaz C\Desktop\Diplomado NET\01\Clase01\Grades.Tests\obj\Debug\Grades.Tests.pdb
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Grades.Tests\bin\Debug\Clase01.exe
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Grades.Tests\bin\Debug\Clase01.pdb
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\01\Clase01\Grades.Tests\obj\Debug\Grades.Tests.pdb
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Grades.Tests\bin\Debug\Clase01.exe
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Grades.Tests\bin\Debug\Clase01.pdb
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Users\R-Natho Díaz C\Google Drive\Cursos de Especialización\JoeDays\Diplomado NET\FUNDAMENTOS C#\Proyecto\Grades.Tests\obj\Debug\Grades.Tests.pdb
